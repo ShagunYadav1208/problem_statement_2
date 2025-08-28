@@ -1,6 +1,6 @@
 ## 🚀 Getting Started
 
-- **How to Run**
+- **How to Run**:
    ```bash
    git clone https://github.com/ShagunYadav1208/problem_statement_2.git
    cd problem_statement_2
