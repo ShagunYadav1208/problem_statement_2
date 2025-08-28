@@ -1,7 +1,7 @@
 
 # Samsung EnnovateX 2025 AI Challenge Submission
 
-- **Problem Statement** - *Problem Statement aNo 2*
+- **Problem Statement** - *Problem Statement No 2 - Reimagine a smartphone that doesn't just run apps, but truly understands and assists user. An agent that sees what you see, hears what you hear, and remembers your experiences to provide contextual, real-time help, all without a constant connection to the cloud.*
 - **Team name** - *Shadows*
 - **Team members (Names)** - *Nitesh Kumar Mishra*, *Aryan Pathak*, *Shagun Yadav*, *Alok Yadav* 
 - **Demo Video Link** - **
