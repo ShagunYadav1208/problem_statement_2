@@ -1,0 +1,82 @@
+{
+  "summaries": [
+    {
+      "summary": "Tomorrow at 10 a.m. we have a team meeting. bring your laptop and the project files. forget to call the client after the meeting. Summarize",
+      "key_points": [
+        "Tomorrow at 10 a",
+        "m",
+        "we have a team meeting",
+        "bring your laptop and the project files",
+        "forget to call the client after the meeting",
+        "Summarize"
+      ],
+      "reminders": [
+        "tomorrow",
+        "bring"
+      ]
+    },
+    {
+      "summary": "Tomorrow at 10 am we have a team meeting Please bring your laptop and project files. Don't forget to call the client after the meeting. Summarize.",
+      "key_points": [
+        "Tomorrow at 10 am we have a team meeting Please bring your laptop and project files",
+        "Don't forget to call the client after the meeting",
+        "Summarize"
+      ],
+      "reminders": [
+        "tomorrow",
+        "discuss the presentation slide. Don't forget to call the client after the meeting. Summarize.",
+        "bring your laptop and... project files we also need to discuss the presentation slide. Don't forget to call the client after the meeting. Summarize.",
+        "call the client after the meeting. Summarize."
+      ]
+    },
+    {
+      "summary": "Tomorrow at 10 AM we have a team meeting. Please bring your laptop and the proj... files. don't forget to call the client after the meeting. Summarize.",
+      "key_points": [
+        "Tomorrow at 10 AM we have a team meeting",
+        "Please bring your laptop and the proj",
+        "files",
+        "don't forget to call the client after the meeting",
+        "Summarize"
+      ]
+    },
+    {
+      "summary": "Meetings are held every week to discuss the progress of the project. This is the budget adjustment time. Let's also plan for the upcoming demo next month. coordinate with the design and development team. Summarize and submit your weekly reports.",
+      "key_points": [
+        "Meetings are held every week to discuss the progress of the project",
+        "This is the budget adjustment time",
+        "Let's also plan for the upcoming demo next month",
+        "coordinate with the design and development team",
+        "Summarize and submit your weekly reports"
+      ]
+    },
+    {
+      "summary": "Team meeting is set for 10 a.m. in the main conference room. Everyone should bring their laptops, projects. files and updated reports. During the meeting we will go through the latest version of the present the back and decide on the next steps for the prototype. We have had a few... unexpected expenses this month. especially related to t- testing an additional cloud server you I",
+      "key_points": [
+        "Team meeting is set for 10 a",
+        "m",
+        "in the main conference room",
+        "Everyone should bring their laptops, projects",
+        "files and updated reports",
+        "During the meeting we will go through the latest version of the present the back and decide on the next steps for the prototype",
+        "We have had a few",
+        "unexpected expenses this month",
+        "especially related to t- testing an additional cloud server you I"
+      ]
+    },
+    {
+      "summary": "The Rose team meeting is set for 10 a.m. in the main conference room. Everyone should bring their laptops, projects, files. and updated reports. We will go through the latest version. of the presentation slides. review client feedback and decide on the next steps for the prototype. Someone must call the client to call Confirm our progress and to schedule or demo for next week. We have had a few unexpected expected expenses this month especially related to testing an additional cloud server usage.",
+      "key_points": [
+        "The Rose team meeting is set for 10 a",
+        "m",
+        "in the main conference room",
+        "Everyone should bring their laptops, projects, files",
+        "and updated reports",
+        "We will go through the latest version",
+        "of the presentation slides",
+        "review client feedback and decide on the next steps for the prototype",
+        "Someone must call the client to call Confirm our progress and to schedule or demo for next week",
+        "We have had a few unexpected expected expenses this month especially related to testing an additional cloud server usage"
+      ]
+    }
+  ]
+}

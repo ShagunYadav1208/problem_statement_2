@@ -1,0 +1,627 @@
+[
+  {
+    "time": "2025-08-24 01:22:20",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:22:21",
+    "caption": "I see: person, tie"
+  },
+  {
+    "time": "2025-08-24 01:22:22",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:22:30",
+    "caption": "I see: person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:31",
+    "caption": "I see: person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:22:35",
+    "caption": "I see: person, person, dog, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:35",
+    "caption": "I see: person, person, person"
+  },
+  {
+    "time": "2025-08-24 01:22:36",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:38",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:22:39",
+    "caption": "I see: person, remote, person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:40",
+    "caption": "I see: person, person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:22:44",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:22:45",
+    "caption": "I see: person, person, cup"
+  },
+  {
+    "time": "2025-08-24 01:22:45",
+    "caption": "I see: person, person"
+  },
+  {
+    "time": "2025-08-24 01:22:48",
+    "caption": "I see: person, cup"
+  },
+  {
+    "time": "2025-08-24 01:22:49",
+    "caption": "I see: person, person"
+  },
+  {
+    "time": "2025-08-24 01:22:49",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:50",
+    "caption": "I see: person, person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:22:52",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:52",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:22:53",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:55",
+    "caption": "I see: person, donut. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:22:56",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:22:56",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:22:57",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:23:00",
+    "caption": "I see: person, cat"
+  },
+  {
+    "time": "2025-08-24 01:23:00",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:23:02",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:23:04",
+    "caption": "I see: person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:23:06",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:23:10",
+    "caption": "I see: person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:23:13",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:23:15",
+    "caption": "I see: person, cat. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:23:17",
+    "caption": "I see: person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:23:19",
+    "caption": "I see: person, pizza. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:23:20",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:23:20",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 01:23:23",
+    "caption": "I see: person"
+  },
+  {
+    "time": "2025-08-24 01:23:26",
+    "caption": "I see: person, person. Unknown Person is here"
+  },
+  {
+    "time": "2025-08-24 01:23:27",
+    "caption": "I see: person, person. Shagun is here"
+  },
+  {
+    "time": "2025-08-24 14:18:16",
+    "caption": "I see: person. Scene looks like: a man is standing in front of a mirror"
+  },
+  {
+    "time": "2025-08-24 14:19:00",
+    "caption": "I see: person, person, person. Shagun is here. Scene looks like: a man in a bathroom with a mirror"
+  },
+  {
+    "time": "2025-08-24 14:33:20",
+    "caption": "Scene looks like: a blue background with a white border"
+  },
+  {
+    "time": "2025-08-24 14:33:28",
+    "caption": "I see: tv, laptop. Scene looks like: a computer monitor sitting on top of a desk"
+  },
+  {
+    "time": "2025-08-24 14:34:04",
+    "caption": "I see: person. Scene looks like: a coat rack with a coat hanging on it"
+  },
+  {
+    "time": "2025-08-24 14:34:18",
+    "caption": "I see: tv. Scene looks like: a computer monitor on a desk"
+  },
+  {
+    "time": "2025-08-24 14:41:43",
+    "caption": "Scene looks like: a blue background with a white border"
+  },
+  {
+    "time": "2025-08-24 14:41:51",
+    "caption": "I see: tv, laptop, mouse, cell phone. Scene looks like: a computer and mouse on a desk"
+  },
+  {
+    "time": "2025-08-24 14:41:56",
+    "caption": "Heard someone say: hello hello hello hello"
+  },
+  {
+    "time": "2025-08-24 14:42:10",
+    "caption": "I see: tv, laptop, person. Scene looks like: a man is using a computer to record a video"
+  },
+  {
+    "time": "2025-08-24 14:42:23",
+    "caption": "Scene looks like: a piano with a sheet on it"
+  },
+  {
+    "time": "2025-08-24 14:42:29",
+    "caption": "Scene looks like: a coat rack with a coat hanging on it"
+  },
+  {
+    "time": "2025-08-24 14:43:39",
+    "caption": "I see: umbrella. Scene looks like: a room with a bed and a coat rack"
+  },
+  {
+    "time": "2025-08-24 14:43:46",
+    "caption": "I see: refrigerator. Scene looks like: a coat rack with a coat hanging on it"
+  },
+  {
+    "time": "2025-08-24 14:44:54",
+    "caption": "Heard someone say: hello hello hello"
+  },
+  {
+    "time": "2025-08-24 14:45:07",
+    "caption": "Heard someone say: is everything alright"
+  },
+  {
+    "time": "2025-08-24 14:45:26",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man with a beard and a brown shirt"
+  },
+  {
+    "time": "2025-08-24 14:45:49",
+    "caption": "I see: person, cell phone. Shagun is here. Scene looks like: a man with a watch on his wrist"
+  },
+  {
+    "time": "2025-08-24 14:45:56",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man with headphones on in a room"
+  },
+  {
+    "time": "2025-08-24 14:46:04",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man with a beard and a beard brush"
+  },
+  {
+    "time": "2025-08-24 14:46:33",
+    "caption": "I see: person. Scene looks like: a man is standing in a room with a mirror"
+  },
+  {
+    "time": "2025-08-24 14:46:41",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: a man with a beard and a brown shirt"
+  },
+  {
+    "time": "2025-08-24 19:33:47",
+    "caption": "I see: person, refrigerator. Shagun is here. Scene looks like: a man is taking a selfie self self"
+  },
+  {
+    "time": "2025-08-24 19:33:55",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man in a room with a mirror"
+  },
+  {
+    "time": "2025-08-24 19:34:34",
+    "caption": "I see: person, pizza. Shagun is here. Scene looks like: a man with a body painted in blue"
+  },
+  {
+    "time": "2025-08-24 19:34:44",
+    "caption": "I see: person, person. Scene looks like: a man is taking a self camera self"
+  },
+  {
+    "time": "2025-08-24 19:41:56",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: a man in a bathroom with a mirror"
+  },
+  {
+    "time": "2025-08-24 19:42:14",
+    "caption": "I see: person, person, person, person. Scene looks like: a man with a cell in his hand"
+  },
+  {
+    "time": "2025-08-24 19:42:16",
+    "caption": "I see: person, person, person, person. Unknown Person is here. Scene looks like: a man brushing his teeth in a mirror"
+  },
+  {
+    "time": "2025-08-24 19:42:17",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: a man in a room with a mirror"
+  },
+  {
+    "time": "2025-08-24 19:42:25",
+    "caption": "I see: person, person. Scene looks like: a man is taking a selfie self camera"
+  },
+  {
+    "time": "2025-08-24 19:42:27",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: a man with a beard and a blue shirt"
+  },
+  {
+    "time": "2025-08-24 19:42:31",
+    "caption": "I see: person. Scene looks like: a man is taking a self camera self"
+  },
+  {
+    "time": "2025-08-24 19:42:33",
+    "caption": "I see: person, person, refrigerator. Shagun is here. Scene looks like: a man in a bathroom taking a selfie"
+  },
+  {
+    "time": "2025-08-24 19:43:43",
+    "caption": "I see: tv, laptop, mouse, bottle, keyboard. Scene looks like: a computer sitting on top of a desk"
+  },
+  {
+    "time": "2025-08-24 19:43:51",
+    "caption": "I see: bed. Scene looks like: a bedroom with a bed and a mirror"
+  },
+  {
+    "time": "2025-08-24 19:44:01",
+    "caption": "Scene looks like: a mirror that is sitting on a table"
+  },
+  {
+    "time": "2025-08-24 19:44:08",
+    "caption": "I see: tv. Scene looks like: a mirror in a room with a desk and computer"
+  },
+  {
+    "time": "2025-08-24 19:44:16",
+    "caption": "I see: tv, cup, book, bed, book, book, book. Scene looks like: a messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy"
+  },
+  {
+    "time": "2025-08-24 19:44:20",
+    "caption": "I see: suitcase. Scene looks like: a coat rack with a coat hanging on it"
+  },
+  {
+    "time": "2025-08-24 19:44:27",
+    "caption": "Scene looks like: a cat is standing in a room with a door"
+  },
+  {
+    "time": "2025-08-24 19:44:30",
+    "caption": "I see: suitcase, bowl. Scene looks like: a bucket with a water bottle in it"
+  },
+  {
+    "time": "2025-08-24 19:44:41",
+    "caption": "I see: bottle, refrigerator. Scene looks like: a bottle of water sitting on top of a stove"
+  },
+  {
+    "time": "2025-08-24 19:44:56",
+    "caption": "I see: bed. Scene looks like: a person is sleeping on a bed"
+  },
+  {
+    "time": "2025-08-24 19:45:00",
+    "caption": "I see: person, suitcase, bed, person. Scene looks like: a baby is laying on a blanket in a room"
+  },
+  {
+    "time": "2025-08-24 19:45:06",
+    "caption": "I see: tv. Scene looks like: a computer monitor"
+  },
+  {
+    "time": "2025-08-24 20:18:51",
+    "caption": "Heard: Hello.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:18:52",
+    "caption": "Vision: I see: person, refrigerator. Shagun is here. Scene looks like: a man is taking a selfie self self | Speech: 20:18:51: Hello.",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:18:56",
+    "caption": "Vision: I see: person, person. Shagun is here. Scene looks like: a man in a bathroom with a mirror | Speech: 20:18:51: Hello.",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:19:02",
+    "caption": "Vision: I see: person. Unknown Person is here. Scene looks like: a man is taking a selfie self self | Speech: 20:18:51: Hello.",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:19:22",
+    "caption": "Heard: everything alright like I had",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:19:25",
+    "caption": "Heard: and done anything.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:19:37",
+    "caption": "Heard: So what's this?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:19:40",
+    "caption": "Heard: problem",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:20:51",
+    "caption": "Heard: Hello",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:20:59",
+    "caption": "Heard: I think it's tough",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:58:27",
+    "caption": "Heard: Hello, and welcome to my AI...",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:58:30",
+    "caption": "Heard: Is this time?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:58:36",
+    "caption": "Vision: I see: person, refrigerator. Scene looks like: a man with a beard and a shirt on | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:58:40",
+    "caption": "Vision: I see: person. Shagun is here. Scene looks like: a man is taking a selfie in a mirror | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:58:55",
+    "caption": "Vision: I see: person. Scene looks like: a man is taking a picture of himself | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:58:59",
+    "caption": "Vision: I see: person. Scene looks like: a man is standing in front of a mirror | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:59:00",
+    "caption": "Vision: I see: person. Scene looks like: a man is taking a selfie self self | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:59:02",
+    "caption": "Vision: I see: person, refrigerator, person. Scene looks like: a man is standing in front of a mirror | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:59:04",
+    "caption": "Vision: I see: person. Scene looks like: a man with a beard and a shirt on | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:59:05",
+    "caption": "Vision: I see: person. Scene looks like: a man is taking a selfie in a mirror | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:59:06",
+    "caption": "Vision: I see: person, refrigerator. Shagun is here. Scene looks like: a man is taking a selfie self camera | Speech: 20:58:27: Hello, and welcome to my AI... 20:58:30: Is this time?",
+    "modality": "fusion"
+  },
+  {
+    "time": "2025-08-24 20:59:30",
+    "caption": "Heard: You can read me",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:59:34",
+    "caption": "Heard: How do you feel?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 20:59:54",
+    "caption": "Heard: Can we meet tomorrow at 3pm?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:14:08",
+    "caption": "Heard: Hello",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:14:13",
+    "caption": "Heard: Is everything good?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:14:15",
+    "caption": "Heard: working fine or not.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:14:37",
+    "caption": "Heard: camera is not working",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:14:41",
+    "caption": "Heard: transcribed working or not",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:14:57",
+    "caption": "Heard: You see this muscle right here? This is your soul.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:15:46",
+    "caption": "Heard: You got",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:15:49",
+    "caption": "Heard: your balance.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:17:13",
+    "caption": "Heard: You dump salt out of the spines and the pep...",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:18:16",
+    "caption": "Heard: cornstarch and iron",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:18:39",
+    "caption": "Heard: You've seen all three videos.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:18:59",
+    "caption": "Heard: and spray it back at them.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:19:03",
+    "caption": "Heard: Just replace the concoction with the magnetic...",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:22:50",
+    "caption": "Heard: the bristles, the brush is dipped.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:23:24",
+    "caption": "Heard: Subscribe for more incredible...",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:29:24",
+    "caption": "Heard: Fuck",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:29:32",
+    "caption": "Heard: What the fuck up up there?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:30:18",
+    "caption": "Heard: I",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:30:56",
+    "caption": "Heard: Mm-hmm",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:31:19",
+    "caption": "Heard: Don't, don't.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:31:23",
+    "caption": "Heard: Don't do that",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:31:38",
+    "caption": "Heard: Okay",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:31:39",
+    "caption": "Heard: Okay.",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:31:41",
+    "caption": "Heard: How come you do that?",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-24 21:31:49",
+    "caption": "Heard: There's like no fucking...",
+    "modality": "audio"
+  },
+  {
+    "time": "2025-08-28 10:36:12",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man with a blue face painted on his face"
+  },
+  {
+    "time": "2025-08-28 10:36:21",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: two men sitting at a table with a laptop"
+  },
+  {
+    "time": "2025-08-28 10:36:29",
+    "caption": "I see: person, person, couch. Scene looks like: a man with a blue face painted on his face"
+  },
+  {
+    "time": "2025-08-28 10:36:34",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: two men are sitting at a table with a laptop"
+  },
+  {
+    "time": "2025-08-28 10:36:40",
+    "caption": "I see: person, person, book. Unknown Person is here. Scene looks like: a man with a blue face painted on his face"
+  },
+  {
+    "time": "2025-08-28 10:36:41",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: two men sitting at a table with a laptop"
+  },
+  {
+    "time": "2025-08-28 10:36:47",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man with a beard and a blue shirt"
+  },
+  {
+    "time": "2025-08-28 10:37:04",
+    "caption": "I see: person, person. Shagun is here. Scene looks like: two men sitting at a table with a laptop"
+  },
+  {
+    "time": "2025-08-28 10:37:07",
+    "caption": "I see: person. Shagun is here. Scene looks like: a man with a beard and a blue shirt"
+  }
+]

@@ -1,0 +1,8 @@
+opencv-python
+torch
+numpy
+face-recognition
+ultralytics
+transformers
+sounddevice
+faster-whisper
